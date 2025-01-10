@@ -6,7 +6,10 @@ import org.json.simple.parser.JSONParser;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
-
+/**
+ *
+ * @author yulissamolina
+ */
 public class weatherAPI {
     public static void main(String[] args) {
         try {
